@@ -81,8 +81,7 @@ function Home() {
         <h2 className="mt-4 text-xl font-bold text-black">Write promot for your form</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+        Create your interview questions or prompts tailored to the role or topic. Define the criteria for evaluation to ensure relevant feedback.
         </p>
       </a>
 
@@ -95,8 +94,7 @@ function Home() {
         <h2 className="mt-4 text-xl font-bold text-black">Edit Your form </h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+        Customize the interview template by adding time limits, scoring rubrics, or additional instructions to match your requirements.
         </p>
       </a>
 
@@ -109,8 +107,7 @@ function Home() {
         <h2 className="mt-4 text-xl font-bold text-black">Share & Start Accepting Responses</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+        Generate a shareable link and send it to candidates or peers. Collect responses and feedback in real-time.
         </p>
       </a>
 
